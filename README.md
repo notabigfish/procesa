@@ -13,8 +13,8 @@ Use scripts in `/procesa/FLIP/baselines/scripts/` to generate dgl graph pkl file
 ## Train and evaluate
 Run scripts in `/procesa/scripts` to train and evaluate models. Results will be saved in `/procesa/results/`. The correspondence between results shown in paper and running scripts are shown in figure below.
 
-![Table 2](images/table2.png)
-![Table 3](images/table3.png)
+![Table 2](procesa/images/table2.png)
+![Table 3](procesa/images/table3.png)
 
 For hotprotein-s2c2 and hotprotein-s2c5, you can change `DATANAME` and `EXPNAME` to run other experiments, like `s2c2_1` and `model31`.
 For hotprotein-S, you can change `EXPNAME` to run other experiments, like `model116`.
