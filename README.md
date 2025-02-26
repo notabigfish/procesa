@@ -1,3 +1,6 @@
+# ProCeSa
+This is the source code of "ProCeSa: Contrast-Enhanced Structure-Aware Network for Thermostability Prediction with Protein Language Models" (https://doi.org/10.1021/acs.jcim.4c01752).
+
 ## conda environment
 `/procesa/environment.yml`
 
@@ -21,3 +24,14 @@ For hotprotein-S, you can change `EXPNAME` to run other experiments, like `model
 
 ## Results
 Results are saved in `/procesa/results` folder.
+
+## Citations
+If you make use of this code or the ProCeSa algorithm in your work, please cite the following paper:
+```bibtex
+@article{zhou2025procesa,
+  title={ProCeSa: Contrast-Enhanced Structure-Aware Network for Thermostability Prediction with Protein Language Models},
+  author={Zhou,  Feixiang and Zhang,  Shuo and Zhang,  Huifeng and Liu,  Jian K.},
+  journal={Journal of Chemical Information and Modeling},
+  year={2025},
+  publisher={American Chemical Society (ACS)}
+}
